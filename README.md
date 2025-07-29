@@ -104,7 +104,7 @@ aws-static-site-deployment/
 │   ├── S3 website hostinh setting.png
 │   └── site-preview.png
 ├── site/
-│   └── index.html (your actual website files)
+│   └── index.html 
 └── README.md
 ```
 
