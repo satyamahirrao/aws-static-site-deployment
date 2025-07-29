@@ -1,6 +1,4 @@
-Sure! Here's your **updated `README.md`** with corrected image filename (`site-preview.png`) and updated references so it renders properly on GitHub:
 
-````markdown
 # 🌐 Deploy a Static Website on AWS S3 + CloudFront
 
 This guide walks through deploying a static website globally using **Amazon S3** and **CloudFront**, ideal for company marketing sites, portfolios, or any static content. This documentation is created with AWS Free Tier in mind — no domain required.
